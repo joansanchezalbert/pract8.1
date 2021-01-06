@@ -1,0 +1,16 @@
+table.uno {
+    border: red 1px solid;
+}
+
+table.dos {
+    border: red 1px solid;
+}
+
+th {
+    border: blue 3px solid;
+}
+
+table.tres {
+    border: green 1px solid;
+    width: 500px;
+}
